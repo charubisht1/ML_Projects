@@ -1,2 +1,2 @@
-# ML_Projects
-Machine Learning projects
+# My_Projects
+Python projects
